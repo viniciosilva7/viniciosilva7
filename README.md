@@ -17,16 +17,27 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia apaixona
 - 🧑‍💻 Tenho interesse em áreas como **[DevOps e Back-End]**.
 - 📫 Como entar em contato comigo: [vinicios.link7@gmail.com].
 
+## Linguagens de Programação
+
+<div style="display: flex">
+<br>
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+<div  align="horizontal">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciosilva7&theme=midnight-purple)
+
+</div>
+
 ## Linguagens de Marcação e Estilo
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Linguagens de Programação
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Banco de Dados
 
@@ -52,4 +63,16 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia apaixona
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciosilva7&theme=midnight-purple)
+
+## Estatísticas de Sequência do GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciosilva7&theme=midnight-purple)](https://git.io/streak-stats)
+
+## Repositórios Destaques do GitHub
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=desafio-de-projeto.dio&theme=midnight-purple)](https://github.com/viniciosilva7/desafio-de-projeto.dio) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=workout_api&theme=midnight-purple)](https://github.com/viniciosilva7/workout_api) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=tdd-project&theme=midnight-purple)](https://github.com/viniciosilva7/tdd-project)
 
