@@ -1,78 +1,68 @@
-# Olá, eu sou Vinicios Ruan Silva! 😆
+ # 🚀 Vinicios Ruan Silva — Engenheiro DevOps 
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia apaixonado por Cloud Computing em busca de conhecimentos teóricos e práticos para desenvolver habilidades.
+🎯 **Objetivo**: Atuar como **Engenheiro DevOps**, aplicando boas práticas de **automação**, **integração contínua** e **infraestrutura como código** para entregar **soluções escaláveis** e **seguras**.  
 
-## Social
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicios-ruan-silva-64a4a52bb)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Be6TQ6KiZ/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicioss_silvaa?igsh=dTZzcDZobWYyZjB0)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciosilva7)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:vinicioss.silvaa7@outlook.com)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vinicios_link7)
+## 📌 Sobre mim  
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** com previsão de formatura em 2025.  
+- 🚀 Em transição de carreira para a área de **T.I**  
+- 📚 Atualmente estou estudando os **Fundamentos de TI e Programação**, com foco em **Linux**, **Redes**, **Python** e **Git/GitHub/GitLab/Bitbucket**
+- 💡 Apaixonado por resolver problemas complexos e criar soluções automatizadas  
+- 📍 Camaçari – BA, Brasil  
 
-## 🙋‍♂️ Sobre mim
-- 📚 Atualmente, estou melhorando as minhas habilidades em **[Python, Lógica de Programação, Git, SQL e NoSQL]**.
-- 💼 Trabalho na **[Ótica Muniz]** no cargo de **[Diretor de Vendas]**.
-- 🧑‍💻 Tenho interesse em áreas como **[DevOps e Back-End]**.
-- 📫 Como entar em contato comigo: [vinicios.link7@gmail.com].
+---
 
-## Linguagens de Programação
+## 🛠️ Habilidades Técnicas  
 
-<div style="display: flex">
-<br>
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Linguagens & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-</div>
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<div  align="horizontal">
+**Banco de Dados:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciosilva7&theme=midnight-purple)
+**Ferramentas & Outros:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
+---
 
-## Linguagens de Marcação e Estilo
+## 📊 Estatísticas do GitHub  
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciosruan&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosruan&layout=compact&theme=tokyonight)  
 
-## Banco de Dados
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## 🚀 Projetos em Destaque  
 
-## Cloud Computing Service
+- [**Monitoramento de Recursos do Sistema**](https://github.com/viniciosruan/monitoramento-recursos) – Script em Python para monitorar CPU, memória e armazenamento.  
+- [**Automação de Backup no Linux**](https://github.com/viniciosruan/backup-linux) – Script Bash para backup automatizado e seguro.  
+- [**Estudos em Python DevOps**](https://github.com/viniciosruan/python-devops) – Projetos práticos para aprender e aplicar conceitos de DevOps.  
 
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
-## Sistema Operacional
+## 🎓 Certificações  
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- **Formação Lógica de Programação** – Digital Innovation One (DIO)  
+- **Linux Fundamentals** – Digital Innovation One (DIO) *(em andamento)*  
+- **AWS re/Start** *(candidato)*  
 
-## Ferramentas
+---
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+## 📫 Contato  
 
-## Estatísticas do GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciosruan)  
+[![E-mail](https://img.shields.io/badge/Email-viniciosruan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciosruan@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciosruan)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciosilva7&theme=midnight-purple)
-
-## Estatísticas de Sequência do GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciosilva7&theme=midnight-purple)](https://git.io/streak-stats)
-
-## Repositórios Destaques do GitHub
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=desafio-de-projeto.dio&theme=midnight-purple)](https://github.com/viniciosilva7/desafio-de-projeto.dio) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=workout_api&theme=midnight-purple)](https://github.com/viniciosilva7/workout_api) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=tdd-project&theme=midnight-purple)](https://github.com/viniciosilva7/tdd-project)
-
+---
+💡 *"Automação não é só sobre código, é sobre criar tempo para inovar."*  
