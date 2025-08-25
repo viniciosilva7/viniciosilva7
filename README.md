@@ -26,11 +26,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Sistema de Controle de Versão:**
+**Sistemas de Controle de Versão:**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-**Banco de Dados:**  
+**Bancos de Dados:**  
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
@@ -45,12 +45,12 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Cloud Computing Service:**
+**Cloud Computing Services:**
 
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
-**Sistema Operacional:**
+**Sistemas Operacionais:**
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -59,29 +59,29 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciosruan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosruan&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciosilva7&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosilva7&layout=compact&theme=transparent)  
 
 ---
 
 ## 🚀 Projetos em Destaque  
 
-- [**Monitoramento de Recursos do Sistema**](https://github.com/viniciosruan/monitoramento-recursos) – Script em Python para monitorar CPU, memória e armazenamento.  
-- [**Automação de Backup no Linux**](https://github.com/viniciosruan/backup-linux) – Script Bash para backup automatizado e seguro.  
-- [**Estudos em Python DevOps**](https://github.com/viniciosruan/python-devops) – Projetos práticos para aprender e aplicar conceitos de DevOps.  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciosilva7&repo=linux-infra-as-code.&bg_icons=true&theme=transparent)](https://github.com/viniciosilva7/linux-infra-as-code.)
 
 ---
 
 ## 🎓 Certificações  
-
-- **Formação Lógica de Programação** – Digital Innovation One (DIO)  
-- **Linux Fundamentals** – Digital Innovation One (DIO) *(em andamento)*  
-- **AWS re/Start** *(candidato)*  
+ 
+- **Introdução a Banco de Dados Relacionais (SQL)** - Digital Innovation One (DIO)
+- **Introdução a Banco de Dados Não Relacionais (NoSQL)** - Digital Innovation One (DIO)
+- **Versionamento de Código com Git e GitHub** - Digital Innovation One (DIO)
+- **Formação Python Fundamentals** - Digital Innovation One (DIO)
+- **Bootcamp Coding The Future Vivo – Python AI Backend Developer** - Digital Innovation One (DIO)
+- **Formação Lógica de Programação** - Digital Innovation One (DIO) 
 
 ---
 
